@@ -60,9 +60,9 @@ Each friend expresses their preference:
 To make a group decision, they combine their weighted preferences. This is where the **dot product** comes into play:  
    
 - Multiply each friend's input by their weight:  
-  - Alice: \(1 \times 2 = 2\)  
-  - Bob: \(0 \times 1 = 0\)  
-  - Charlie: \(1 \times 0.5 = 0.5\)  
+  - Alice: \(1 x 2 = 2\)  
+  - Bob: \(0 x 1 = 0\)  
+  - Charlie: \(1 x 0.5 = 0.5\)  
 - Add up the results (weighted sum):  
   - Total score: \(2 + 0 + 0.5 = 2.5\)  
    
@@ -74,7 +74,7 @@ The dot product is the operation of multiplying each friend's preference by thei
    
 - **Inputs vector**: Friends' preferences \([1, 0, 1]\)  
 - **Weights vector**: Friends' weights \([2, 1, 0.5]\)  
-- **Dot product**: \( (1 \times 2) + (0 \times 1) + (1 \times 0.5) = 2 + 0 + 0.5 = 2.5 \)  
+- **Dot product**: \( (1 x 2) + (0 x 1) + (1 x 0.5) = 2 + 0 + 0.5 = 2.5 \)  
    
 The dot product simplifies combining multiple inputs and weights into a single calculation, just like the perceptron combines features and their importance to make a decision.  
    
