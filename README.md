@@ -139,7 +139,7 @@ else:
    
 ---  
    
-## Making It Easy to Understand: The Step-by-Step Math Without Formulas  
+## Making It Easy to Understand
    
 1. **Multiply Inputs by Weights**:  
   
