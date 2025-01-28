@@ -2,7 +2,7 @@
 
 ---
 
-# Unveiling the Perceptron: How Simple Ideas Power Modern AI  
+# How Simple Ideas Power Modern AI  
    
 *Explore the magic of basic math and simple programming that make machines learn, all through the lens of the humble perceptron.*  
    
