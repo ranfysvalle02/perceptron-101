@@ -1,5 +1,7 @@
 # perceptron-101
 
+![](QE-how-it-works.png)
+
 ---
 
 # How Simple Ideas Power Modern AI  
