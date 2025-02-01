@@ -1,5 +1,7 @@
 # perceptron-101
 
+![](https://gtathought.com/wp-content/uploads/2021/11/Depositphotos_125640314_S.jpg)
+
 ---
 
 # How Simple Ideas Power Modern AI  
@@ -17,7 +19,9 @@ In this blog post, we'll journey through the world of perceptrons, understand th
 ---  
    
 ## The Origin of the Perceptron  
-   
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*Ib3_FfuOy04kOmfO)
+
 The perceptron was introduced by **Frank Rosenblatt** in 1957. Inspired by the way the human brain works, Rosenblatt wanted to create a machine that could mimic how neurons process information. Neurons receive inputs, perform simple calculations, and decide whether to activate or not. Rosenblatt's perceptron was a digital model of this biological process.  
    
 ---  
